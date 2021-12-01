@@ -1,0 +1,85 @@
+c:\src\2p\counter-strike global offensive\test\aimbot.obj
+c:\src\2p\counter-strike global offensive\test\drawing.obj
+c:\src\2p\counter-strike global offensive\test\knifebot.obj
+c:\src\2p\counter-strike global offensive\test\button.obj
+c:\src\2p\counter-strike global offensive\test\slider.obj
+c:\src\2p\counter-strike global offensive\test\parser.obj
+c:\src\2p\counter-strike global offensive\test\resolver.obj
+c:\src\2p\counter-strike global offensive\test\atomic_lock.obj
+c:\src\2p\counter-strike global offensive\test\mutex.obj
+c:\src\2p\counter-strike global offensive\test\packed_heap.obj
+c:\src\2p\counter-strike global offensive\test\semaphores.obj
+c:\src\2p\counter-strike global offensive\test\shared_mutex.obj
+c:\src\2p\counter-strike global offensive\test\threading.obj
+c:\src\2p\counter-strike global offensive\test\usercmd.obj
+c:\src\2p\counter-strike global offensive\test\clientstate.obj
+c:\src\2p\counter-strike global offensive\test\imgui_demo.obj
+c:\src\2p\counter-strike global offensive\test\imgui_impl_dx9.obj
+c:\src\2p\counter-strike global offensive\test\math.obj
+c:\src\2p\counter-strike global offensive\test\tab.obj
+c:\src\2p\counter-strike global offensive\test\input.obj
+c:\src\2p\counter-strike global offensive\test\paint.obj
+c:\src\2p\counter-strike global offensive\test\rendering.obj
+c:\src\2p\counter-strike global offensive\test\ray_tracer.obj
+c:\src\2p\counter-strike global offensive\test\weather_controller.obj
+c:\src\2p\counter-strike global offensive\test\displacement.obj
+c:\src\2p\counter-strike global offensive\test\imgui_draw.obj
+c:\src\2p\counter-strike global offensive\test\internet.obj
+c:\src\2p\counter-strike global offensive\test\i_menu.obj
+c:\src\2p\counter-strike global offensive\test\checkbox.obj
+c:\src\2p\counter-strike global offensive\test\setup.obj
+c:\src\2p\counter-strike global offensive\test\player.obj
+c:\src\2p\counter-strike global offensive\test\server_lag_comp.obj
+c:\src\2p\counter-strike global offensive\test\vector4d.obj
+c:\src\2p\counter-strike global offensive\test\autowall.obj
+c:\src\2p\counter-strike global offensive\test\entity.obj
+c:\src\2p\counter-strike global offensive\test\lag_comp.obj
+c:\src\2p\counter-strike global offensive\test\combobox.obj
+c:\src\2p\counter-strike global offensive\test\misc_hooks.obj
+c:\src\2p\counter-strike global offensive\test\qangle.obj
+c:\src\2p\counter-strike global offensive\test\scan.obj
+c:\src\2p\counter-strike global offensive\test\sound_parser.obj
+c:\src\2p\counter-strike global offensive\test\weapon.obj
+c:\src\2p\counter-strike global offensive\test\anti_aimbot.obj
+c:\src\2p\counter-strike global offensive\test\event_manager.obj
+c:\src\2p\counter-strike global offensive\test\matrix.obj
+c:\src\2p\counter-strike global offensive\test\window.obj
+c:\src\2p\counter-strike global offensive\test\menu_v2.obj
+c:\src\2p\counter-strike global offensive\test\overrideview.obj
+c:\src\2p\counter-strike global offensive\test\prediction_hooks.obj
+c:\src\2p\counter-strike global offensive\test\vdf_parser.obj
+c:\src\2p\counter-strike global offensive\test\visuals.obj
+c:\src\2p\counter-strike global offensive\test\createmove.obj
+c:\src\2p\counter-strike global offensive\test\grenades.obj
+c:\src\2p\counter-strike global offensive\test\main.obj
+c:\src\2p\counter-strike global offensive\test\colorpicker.obj
+c:\src\2p\counter-strike global offensive\test\misc.obj
+c:\src\2p\counter-strike global offensive\test\prediction.obj
+c:\src\2p\counter-strike global offensive\test\sdk.obj
+c:\src\2p\counter-strike global offensive\test\vector.obj
+c:\src\2p\counter-strike global offensive\test\wndproc.obj
+c:\src\2p\counter-strike global offensive\test\beams.obj
+c:\src\2p\counter-strike global offensive\test\imgui.obj
+c:\src\2p\counter-strike global offensive\test\imgui_extension.obj
+c:\src\2p\counter-strike global offensive\test\section.obj
+c:\src\2p\counter-strike global offensive\test\keybind.obj
+c:\src\2p\counter-strike global offensive\test\movement.obj
+c:\src\2p\counter-strike global offensive\test\prop_manager.obj
+c:\src\2p\counter-strike global offensive\test\print.obj
+c:\src\2p\counter-strike global offensive\test\vector2d.obj
+c:\src\2p\counter-strike global offensive\test\chams.obj
+c:\src\2p\counter-strike global offensive\test\framestagenotify.obj
+c:\src\2p\counter-strike global offensive\test\menu.obj
+c:\src\2p\counter-strike global offensive\test\multibox.obj
+c:\src\2p\counter-strike global offensive\test\music_player.obj
+c:\src\2p\counter-strike global offensive\test\rage_aimbot.obj
+c:\src\2p\counter-strike global offensive\test\source.obj
+c:\src\2p\counter-strike global offensive\test\vc142.pdb
+c:\src\2p\test\csgo v3.dll
+c:\src\2p\test\csgo v3.pdb
+c:\src\2p\counter-strike global offensive\test\csgo v3.tlog\cl.command.1.tlog
+c:\src\2p\counter-strike global offensive\test\csgo v3.tlog\cl.read.1.tlog
+c:\src\2p\counter-strike global offensive\test\csgo v3.tlog\cl.write.1.tlog
+c:\src\2p\counter-strike global offensive\test\csgo v3.tlog\link.command.1.tlog
+c:\src\2p\counter-strike global offensive\test\csgo v3.tlog\link.read.1.tlog
+c:\src\2p\counter-strike global offensive\test\csgo v3.tlog\link.write.1.tlog

@@ -1,0 +1,151 @@
+﻿  framestagenotify.cpp
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(3904): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(3986): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(3987): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(3988): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(3997): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(3998): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(3999): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4000): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4039): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4060): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4075): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4087): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4095): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4096): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4097): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4127): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4143): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4200): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4237): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4239): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4240): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4241): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4242): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4234): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4234): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4234): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4246): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4246): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4246): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4247): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4247): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4247): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4248): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4248): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4248): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4249): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4249): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4249): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4250): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4250): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4250): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4251): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4251): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\sdk.hpp(4251): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\source.hpp(143): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\source.hpp(192): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\source.hpp(429): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\source.hpp(802): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\source.hpp(802): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\source.hpp(802): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\source.hpp(802): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\vdf_parser.hpp(54): warning C4244: 'argument': conversion from 'char32_t' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=char16_t
+          ]
+C:\src\2p\Counter-Strike Global Offensive\vdf_parser.hpp(78): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\src\2p\Counter-Strike Global Offensive\framestagenotify.cpp(166): warning C4018: '<': signed/unsigned mismatch
+C:\src\2p\Counter-Strike Global Offensive\framestagenotify.cpp(270): warning C4018: '<': signed/unsigned mismatch
+C:\src\2p\Counter-Strike Global Offensive\framestagenotify.cpp(422): warning C4018: '>=': signed/unsigned mismatch
+C:\src\2p\Counter-Strike Global Offensive\framestagenotify.cpp(495): warning C4018: '<': signed/unsigned mismatch
+C:\src\2p\Counter-Strike Global Offensive\framestagenotify.cpp(509): warning C4018: '<': signed/unsigned mismatch
+C:\src\2p\Counter-Strike Global Offensive\framestagenotify.cpp(683): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2468): warning C4244: 'argument': conversion from 'char16_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2479): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<char16_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=char16_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2479): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<char16_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=char16_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2459): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<char16_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=char16_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2459): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<char16_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=char16_t *
+          ]
+  C:\src\2p\Counter-Strike Global Offensive\vdf_parser.hpp(67): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=char16_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char16_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\src\2p\Counter-Strike Global Offensive\vdf_parser.hpp(67): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=char16_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char16_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2468): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2479): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2479): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2459): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(2459): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\src\2p\Counter-Strike Global Offensive\parser.hpp(94): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\src\2p\Counter-Strike Global Offensive\parser.hpp(94): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\src\2p\test\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\src\2p\test\detours.pdb'; linking object as if no debug info
+  Counter-Strike Global Offensive.vcxproj -> C:\src\2p\test\csgo v3.dll
